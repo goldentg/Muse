@@ -1,0 +1,14 @@
+{
+  "name": "muse",
+  "version": "1.0.0",
+  "description": "Muse music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GoldenCodex#6546",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
